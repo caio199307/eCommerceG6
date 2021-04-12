@@ -100,7 +100,7 @@ public class Loja {
 			}
 		}
 		while(opcao !=1 && opcao !=2 && opcao !=3);
-		System.out.println("\nDigite qualquer tecla para continuar: ");
+		System.out.println("\nDigite qualquer tecla para finalizar a compra: ");
 		leia.next();
 	}
 	
